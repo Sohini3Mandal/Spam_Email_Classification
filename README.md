@@ -1,5 +1,13 @@
 # 📧 Spam Email Classification
 
+---
+
+## 🎯 Objective
+
+The objective of this project is to build and evaluate machine learning models for classifying email messages as spam or not spam based on their textual content. The focus is on achieving high precision, ensuring that legitimate emails are not incorrectly classified as spam, while maintaining strong overall classification performance.
+
+---
+
 ## 📊 About the Dataset
 
 ### 🗂 Dataset Name
